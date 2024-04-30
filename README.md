@@ -1,0 +1,4 @@
+- 👋 Hola, soy @jaumesito
+- 👀 Estoy interesado en IA, diseño web y programar
+- 🌱 Estudiante de Ingeniería Informática en la UIB
+- 📫 Contacto: jribasgaya@gmail.com
